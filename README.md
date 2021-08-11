@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sang
 - 👀 I’m interested in being better 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning HTML
 - 📫 Reaching me out via email : sangqt.inb@gmail.com
 
 <!---
