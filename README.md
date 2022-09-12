@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @sang
-- 👀 I’m interested in being better 
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in being a sre 
+- 🌱 I’m currently learning .NET MAUI, Ansible, Kubernetes
 - 📫 Reaching me out via email : sangqt.inb@gmail.com
-
-<!---
-sangqt/sangqt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
